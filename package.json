@@ -149,7 +149,7 @@
     "uglify-js": "3.1.4"
   },
   "dependencies": {
-    "apollo-client": "git://github.com/apollographql/apollo-client.git#e2b4525",
+    "apollo-client": "2.0.0-beta.4",
     "graphql-tag": "^2.0.0",
     "hoist-non-react-statics": "^2.2.0",
     "invariant": "^2.2.1",
